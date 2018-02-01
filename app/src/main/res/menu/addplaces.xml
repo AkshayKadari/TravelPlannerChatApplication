@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/AddLocation"
+        android:title="Add Place"
+
+        app:showAsAction="never"/>
+    <item android:id="@+id/ShowPlace"
+        android:title="Show Place"
+
+        app:showAsAction="never"/>
+    <item android:id="@+id/RoundTrip"
+        android:title="RoundTrip"
+
+        app:showAsAction="never"/>
+    <item android:id="@+id/AddFriend"
+        android:title="AddFriend"
+
+        app:showAsAction="never"/>
+    <item android:id="@+id/DeleteChat"
+        android:title="DeleteChat"
+
+        app:showAsAction="never"/>
+
+</menu>
